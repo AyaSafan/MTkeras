@@ -1,4 +1,4 @@
-absl-py==0.8.1
+absl-py==1.4.0
 aliyun-python-sdk-core==2.13.16
 appdirs==1.4.4
 APScheduler==3.6.0
